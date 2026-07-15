@@ -126,7 +126,3 @@ curl -X DELETE http://localhost:8099/api/booking/B001
 
 - Task 1 and Task 2 both default to port **8099**. Run only one at a time, or change `PORT`.
 - Do not commit real secrets to a public repo. Prefer environment variables for Facebook and MongoDB credentials in production or shared repositories.
-
-## License
-
-Coursework for COMP S381F (HKMU).
